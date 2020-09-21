@@ -24,7 +24,7 @@ Swagger2 : API Documentation
 
 * Github Repository:
  Download project from the following git repository
-
+https://github.com/swatinagde/myRetailApplication.git
 
 * Steps to execute the application:
 Download the project. Navigate to  the project folder and run mvn spring-boot:run
